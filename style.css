@@ -1,0 +1,16 @@
+*,
+::before,
+::after {
+box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: darkgrey;
+    overflow: hidden;
+    text-align: center;
+}
+
+#myCanvas {
+    background: lightgray;
+}
